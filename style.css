@@ -1,0 +1,45 @@
+body{
+	background-color: red;
+}
+.prav{
+	background-color: black;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 15%;
+	height: 110%;
+	
+}
+.lev{
+	background-color: black;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 15%;
+	height: 110%;
+}
+.osnova{
+	position: absolute;
+	left: 15%;
+	width: 70%;
+}
+.zag{
+	font-size: 100px;
+	margin-left: 120px;
+
+}
+.barinya{
+	position: absolute;
+	width: 540px;
+	height: 400px;
+}
+.text{
+	position: absolute;
+	right: 0;
+	width: 400px;
+	top: 140px;
+}
+.end{
+	position: absolute;
+	top: 550px;
+}
